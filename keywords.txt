@@ -1,0 +1,11 @@
+BitRWarray	KEYWORD1
+readChar	KEYWORD2
+writeChar	KEYWORD2
+readByte	KEYWORD2
+writeByte	KEYWORD2
+readWord	KEYWORD2
+writeWord	KEYWORD2
+readDword	KEYWORD2
+writeDword	KEYWORD2
+readQword	KEYWORD2
+writeQword	KEYWORD2
